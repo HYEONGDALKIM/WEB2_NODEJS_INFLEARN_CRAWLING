@@ -1,0 +1,14 @@
+출처 - https://www.youtube.com/watch?v=xbehh8lWy_A
+
+크롤링 이란? 크롤링 웹 페이지를 그대로 가져와서 원하는 데이터를 추출해 내는 것을 말한다.
+   불법인지 아닌지 확인을 해야한다.
+
+async와 await를 사용한 비동기 프로그래밍
+https://developer.mozilla.org/ko/docs/Learn/JavaScript/Asynchronous/Async_await
+
+encodeURI() 함수는 URI의 특정한 문자를 UTF-8로 인코딩해 하나, 둘, 셋, 혹은 네 개의 연속된 이스케이프 문자로 나타냅니다. - 여기서는 자바스크립트라는 한글 검색어 때문에 오류가 나므로 추가해주었다.
+
+크롬 개발자도구에서 요소검사를 키고 마우스 갖다되면 어느부분인지 다 보여준다.
+1. npm init -y
+2. npm install axios cheerio
+
